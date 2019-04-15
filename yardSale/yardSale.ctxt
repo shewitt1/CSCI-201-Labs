@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=yardSale
+comment0.text=\n\ Yard\ sale\ program\ that\ determines\ the\ number\ of\ items\ bought\ and\ then\ calculates\ how\ much\ they\ owe\n\n1.\ Print\ description\ and\ then\ ask\ to\ enter\ name\n2.\ Store\ name\ in\ variable\ name\n3.\ Ask\ how\ many\ items\ they\ are\ buying\n4.\ Store\ in\ variable\ itemNum\n5.\ call\ variables\ subtotal,\ discount,\ and\ total\ \n6.\ do\ math\ for\ those\ variables\ and\ store\ them\n7.Print\ out\ receipt\n\n\n\n\ @author\ Spencer\ Hewitt\n\ @version\ 2/8/19\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

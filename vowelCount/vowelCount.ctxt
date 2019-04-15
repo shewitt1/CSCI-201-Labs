@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=vowelCount
+comment0.text=\n\ Counts\ the\ number\ of\ vowels\ in\ a\ string\n\n\ @author\ Spencer\ Hewitt\n\ @version\ 2/22/19\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

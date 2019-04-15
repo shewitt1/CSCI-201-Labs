@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=tipCalculator
+comment0.text=\n\ Takes\ input\ of\ total\ price\ and\ prints\ 18%\ tip,\ 20%\ tip,\ and\ 22%\ tip.\n\n\ @author\ Spencer\ Hewitt\n\ @version\ 1/30/19\n\ \n\ \n\ Ask\ user\ for\ name\n\ store\ input\ in\ variable\ name\n\ Ask\ user\ for\ total\ price\n\ store\ input\ in\ variable\ totalPrice\n\ Calculate\ 18%\ tip,\ 20%\ tip,\ and\ 22%\ tip\ by\n\ multiplying\ totalPrice\ by\ .18,\ .20,\ and\ .22\ and\ storing\n\ in\ 3\ separate\ variables,\ tip18,\ tip20,\ tip22\n\ Print\ tips\n\ \n\ \n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=dateReformat
+comment0.text=\n\ Reformats\ the\ inputted\ date\ into\ the\ European\ style\ of\ date\ format.\n\n\ @author\ Spencer\ Hewitt\n\ @version\ 2/4/19\n\ \n\ Ask\ for\ date\n\ Store\ date\ in\ variable\ date\n\ Create\ 3\ new\ variables\ to\ add\ substrings\ to\n\ Call\ them\ newMonth,\ newDay,\ and\ newYear\n\ Get\ the\ substring\ from\ character\ 0\ to\ character\ 2\ for\ the\ newMonth\n\ Get\ the\ substring\ from\ character\ 3\ to\ character\ 5\ for\ the\ newDay\n\ Get\ the\ substring\ from\ character\ 6\ to\ character\ 10\ for\ the\ newYear\n\ Print\ out\ everything\ and\ tell\ the\ user\ the\ new\ date\n\ \n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=highLow
+comment0.text=\n\ To\ find\ highest\ value\ in\ a\ sequence\ of\ numbers\n\n\ @author\ Spencer\ Hewitt\n\ @version\ 2/20/19\n\ \n\ \n\ Assume\ sequence\ ends\ with\ a\ negative\ value\n\ ask\ for\ number\n\ get\ number\n\ while\ number\ not\ negative\n\ \ \ \ if\ number\ >\ maxNumber\ \n\ \ \ \ maxNumber\ \=\ number\n\ \ \ ask\ for\ number\n\ \ \ get\ number\n\ \n\ \n\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=gradeFun2
+comment0.text=\n\ Write\ a\ program\ that\ will\ read\ in\ a\ letter\ grade\ and\ print\ its\ UNC\ Asheville\ quality\ points\:\ \ \n\n\ @author\ Spencer\ Hewitt\n\ @version\ 2/17/19\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

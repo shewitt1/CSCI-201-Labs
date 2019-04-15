@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=transportCosts
+comment0.text=\n\ Takes\ the\ input\ of\ the\ cost\ of\ the\ car\ and\ the\ cost\ of\ a\ train\ ticket,\ and\ compares\ the\ two.\n\n\ @author\ Spencer\ Hewitt\n\ @version\ 1/30/19\n\ \n\ \n\ \n\ 1)\ Input\ distance\ from\ home\ to\ work\n2)\ Store\ in\ variable\ workMiles\n3)\ Input\ fuel\ efficiency\ of\ car\n4)\ Store\ value\ in\ variable\ milesPerG\n5)\ Input\ price\ of\ one\ way\ train\ ticket\n6)\ Store\ value\ in\ variable\ trainPrice\n7)\ costOfGas\ \=\ milesPerG\ /\ 4\n8)\ maintenenceCost\ \=\ workMiles\ *\ .05\ \n9)\ carCost\ \=\ costOfGas\ +\ maintenenceCost\n10)\ trainCost\ \=\ trainPrice\ *\ 2\n11)\ If\ carCost\ >\ trainCost\ then\ print\ "train\ is\ cheaper"\n12)\ else\ print\ "car\ is\ cheaper"\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

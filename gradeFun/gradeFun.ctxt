@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=gradeFun
+comment0.text=\n\ Calculates\ what\ letter\ grade\ you\ have\ based\ on\ the\ number\n\nGet\ grade\ and\ store\ in\ variable\ grade\nif\ statement\ (>90\=a\ >80\=b\ >70\=c\ >60\=d\ else\ F)\nprint\ grade\ in\ if\ statement\n\n\n\n\ @author\ Spencer\ Hewitt\n\ @version\ 2/11/19\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

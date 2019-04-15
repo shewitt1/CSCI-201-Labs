@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PayCheck
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ 1.\ Ask\ user\ for\ name\n\ 2.\ Get\ name\n\ 3.\ Ask\ user\ for\ payrate\n\ 4.\ Get\ payrate\n\ 5.\ Ask\ user\ for\ hours\ worked\n\ 6.\ Get\ hours\ worked.\n\ 7.\ Compute\ Gross\ pay\n\ 8.\ Print\n\ \n
+numComments=2

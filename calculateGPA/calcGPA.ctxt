@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=calcGPA
+comment0.text=\n\ Calculates\ GPA\ based\ on\ UNCA's\ GPA\ calculations.\n\n\ @author\ Spencer\ Hewitt\n\ @version\ 2/25/19\n\ \n\ Start\ while\ loop\n\ Ask\ for\ Grade\n\ Store\ grade\ in\ variable\ grade\n\ Start\ if\ statement\ \n\ If\ grade\ doesn't\ equal\ Q\ keep\ going\n\ Ask\ for\ course\ hours\n\ Store\ course\ hours\ in\ variable\ courseHours\n\ Start\ if\ statement\n\ Checks\ input\ and\ determines\ quality\ point\ value\n\ End\ second\ if\ statement\n\ Math\ for\ GPA\n\ End\ first\ if\ statement\n\ End\ while\ loop\n\ \n\ Another\ if\ statement\ just\ incase\ first\ input\ is\ "Q"\n\ If\ gpa\ hasn't\ changed,\ dont\ print\ GPA\ and\ end\ program\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
